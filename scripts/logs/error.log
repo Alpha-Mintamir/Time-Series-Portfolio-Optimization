@@ -62,3 +62,25 @@
 2024-11-10 16:48:51,059 - INFO - Analyzing extreme returns with a threshold of 0.05.
 2024-11-10 16:48:51,064 - INFO - Found 13 days with extreme returns.
 2024-11-10 16:48:51,064 - INFO - Found 13 days with extreme returns.
+2024-11-10 17:00:18,742 - INFO - TimeSeriesAnalysis class initialized with DataFrame.
+2024-11-10 17:00:18,745 - INFO - Decomposing time series into trend, seasonal, and residual components.
+2024-11-10 17:04:24,176 - INFO - TimeSeriesAnalysis class initialized with DataFrame.
+2024-11-10 17:04:24,181 - INFO - Decomposing time series into trend, seasonal, and residual components.
+2024-11-10 17:04:53,035 - INFO - TimeSeriesAnalysis class initialized with DataFrame.
+2024-11-10 17:04:53,038 - INFO - Decomposing time series into trend, seasonal, and residual components.
+2024-11-10 17:04:55,902 - INFO - Plotting rolling volatility with a 20-day window.
+2024-11-10 17:05:57,512 - INFO - TimeSeriesAnalysis class initialized with DataFrame.
+2024-11-10 17:05:57,515 - INFO - Decomposing time series into trend, seasonal, and residual components.
+2024-11-10 17:05:59,398 - INFO - Plotting rolling volatility with a 20-day window.
+2024-11-10 17:06:25,685 - INFO - TimeSeriesAnalysis class initialized with DataFrame.
+2024-11-10 17:06:25,688 - INFO - Decomposing time series into trend, seasonal, and residual components.
+2024-11-10 17:06:28,194 - INFO - Plotting rolling volatility with a 20-day window.
+2024-11-10 17:07:54,299 - INFO - TimeSeriesAnalysis class initialized with DataFrame.
+2024-11-10 17:07:54,303 - INFO - Decomposing time series into trend, seasonal, and residual components.
+2024-11-10 17:07:57,672 - INFO - Plotting rolling volatility with a 20-day window.
+2024-11-10 17:07:58,854 - INFO - TimeSeriesAnalysis class initialized with DataFrame.
+2024-11-10 17:07:58,857 - INFO - Decomposing time series into trend, seasonal, and residual components.
+2024-11-10 17:08:01,321 - INFO - Plotting rolling volatility with a 20-day window.
+2024-11-10 17:08:02,105 - INFO - TimeSeriesAnalysis class initialized with DataFrame.
+2024-11-10 17:08:02,107 - INFO - Decomposing time series into trend, seasonal, and residual components.
+2024-11-10 17:08:04,829 - INFO - Plotting rolling volatility with a 20-day window.
