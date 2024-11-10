@@ -1,0 +1,657 @@
+2024-11-09 17:17:34,128 - INFO - Fetching data using yfinance for the given tickers
+2024-11-09 17:17:34,128 - INFO - Starting data extraction
+2024-11-09 17:17:37,145 - INFO - Data extraction completed successfully
+2024-11-09 17:28:39,143 - INFO - Fetching data using yfinance for the given tickers
+2024-11-09 17:28:39,143 - INFO - Starting data extraction
+2024-11-09 17:28:41,573 - INFO - Data extraction completed successfully
+2024-11-09 17:28:41,637 - INFO - Data saved to ../data/tesla.csv
+2024-11-09 17:34:54,173 - INFO - Fetching data using yfinance for the given tickers
+2024-11-09 17:34:54,174 - INFO - Starting data extraction
+2024-11-09 17:34:54,299 - INFO - Data extraction completed successfully
+2024-11-09 17:34:54,391 - INFO - Data saved to ../data/tesla.csv
+2024-11-09 17:34:54,392 - INFO - Fetching data using yfinance for the given tickers
+2024-11-09 17:34:54,393 - INFO - Starting data extraction
+2024-11-09 17:34:55,705 - INFO - Data extraction completed successfully
+2024-11-09 17:34:55,773 - INFO - Data saved to ../data/tesla.csv
+2024-11-09 17:34:55,775 - INFO - Fetching data using yfinance for the given tickers
+2024-11-09 17:34:55,775 - INFO - Starting data extraction
+2024-11-09 17:34:56,274 - INFO - Data extraction completed successfully
+2024-11-09 17:34:56,363 - INFO - Data saved to ../data/tesla.csv
+2024-11-09 17:41:29,202 - INFO - Fetching data for TSLA from 2015-01-01 to 2024-10-31...
+2024-11-09 17:41:31,706 - INFO - Data extraction for TSLA completed successfully
+2024-11-09 17:41:31,797 - INFO - Data for TSLA saved to '../data\TSLA.csv'.
+2024-11-09 17:41:31,798 - INFO - Fetching data for BND from 2015-01-01 to 2024-10-31...
+2024-11-09 17:41:32,272 - INFO - Data extraction for BND completed successfully
+2024-11-09 17:41:32,351 - INFO - Data for BND saved to '../data\BND.csv'.
+2024-11-09 17:41:32,351 - INFO - Fetching data for SPY from 2015-01-01 to 2024-10-31...
+2024-11-09 17:41:32,982 - INFO - Data extraction for SPY completed successfully
+2024-11-09 17:41:33,058 - INFO - Data for SPY saved to '../data\SPY.csv'.
+2024-11-09 17:43:06,115 - INFO - Fetching data for TSLA from 2015-01-01 to 2024-10-31...
+2024-11-09 17:43:06,207 - INFO - Data extraction for TSLA completed successfully
+2024-11-09 17:43:06,258 - INFO - Data for TSLA saved to '../data\TSLA.csv'.
+2024-11-09 17:43:06,258 - INFO - Fetching data for BND from 2015-01-01 to 2024-10-31...
+2024-11-09 17:43:06,332 - INFO - Data extraction for BND completed successfully
+2024-11-09 17:43:06,383 - INFO - Data for BND saved to '../data\BND.csv'.
+2024-11-09 17:43:06,383 - INFO - Fetching data for SPY from 2015-01-01 to 2024-10-31...
+2024-11-09 17:43:06,479 - INFO - Data extraction for SPY completed successfully
+2024-11-09 17:43:06,556 - INFO - Data for SPY saved to '../data\SPY.csv'.
+2024-11-09 17:45:47,285 - INFO - Fetching data for TSLA from 2015-01-01 to 2024-10-31...
+2024-11-09 17:45:49,880 - INFO - Data extraction for TSLA completed successfully
+2024-11-09 17:45:49,976 - INFO - Data for TSLA saved to '../data\TSLA.csv'.
+2024-11-09 17:45:49,977 - INFO - Fetching data for BND from 2015-01-01 to 2024-10-31...
+2024-11-09 17:45:50,614 - INFO - Data extraction for BND completed successfully
+2024-11-09 17:45:50,684 - INFO - Data for BND saved to '../data\BND.csv'.
+2024-11-09 17:45:50,684 - INFO - Fetching data for SPY from 2015-01-01 to 2024-10-31...
+2024-11-09 17:45:51,279 - INFO - Data extraction for SPY completed successfully
+2024-11-09 17:45:51,334 - INFO - Data for SPY saved to '../data\SPY.csv'.
+2024-11-09 18:50:25,472 - INFO - Fetching data for TSLA from 2015-01-01 to 2024-10-31...
+2024-11-09 18:50:33,251 - INFO - Data extraction for TSLA completed successfully
+2024-11-09 18:50:33,351 - INFO - Data for TSLA saved to '../data\TSLA.csv'.
+2024-11-09 18:50:33,351 - INFO - Fetching data for BND from 2015-01-01 to 2024-10-31...
+2024-11-09 18:50:34,138 - INFO - Data extraction for BND completed successfully
+2024-11-09 18:50:34,263 - INFO - Data for BND saved to '../data\BND.csv'.
+2024-11-09 18:50:34,263 - INFO - Fetching data for SPY from 2015-01-01 to 2024-10-31...
+2024-11-09 18:50:34,988 - INFO - Data extraction for SPY completed successfully
+2024-11-09 18:50:35,069 - INFO - Data for SPY saved to '../data\SPY.csv'.
+2024-11-10 15:26:46,596 - INFO - Data Shape: (2481, 5)
+2024-11-10 15:26:46,617 - INFO - Data Head:                                 Open       High        Low      Close  \
+Date                                                                    
+2015-01-02 00:00:00-05:00  14.858000  14.883333  14.217333  14.620667   
+2015-01-05 00:00:00-05:00  14.303333  14.433333  13.810667  14.006000   
+2015-01-06 00:00:00-05:00  14.004000  14.280000  13.614000  14.085333   
+2015-01-07 00:00:00-05:00  14.223333  14.318667  13.985333  14.063333   
+2015-01-08 00:00:00-05:00  14.187333  14.253333  14.000667  14.041333   
+
+                             Volume  
+Date                                 
+2015-01-02 00:00:00-05:00  71466000  
+2015-01-05 00:00:00-05:00  80527500  
+2015-01-06 00:00:00-05:00  93928500  
+2015-01-07 00:00:00-05:00  44526000  
+2015-01-08 00:00:00-05:00  51637500  
+2024-11-10 15:26:46,654 - INFO - Data Description:               Open         High          Low        Close        Volume
+count  2481.000000  2481.000000  2481.000000  2481.000000  2.481000e+03
+mean    111.902984   114.354807   109.303796   111.890274  1.125585e+08
+std     110.370142   112.824498   107.706078   110.302138  7.444520e+07
+min       9.488000    10.331333     9.403333     9.578000  1.062000e+07
+25%      17.099333    17.386667    16.799999    17.086000  6.682080e+07
+50%      25.093332    25.509333    24.648666    25.166000  9.288270e+07
+75%     217.896667   222.166672   212.529999   217.733337  1.301955e+08
+max     411.470001   414.496674   405.666656   409.970001  9.140820e+08
+2024-11-10 15:26:46,703 - INFO - Data Info: <class 'pandas.core.frame.DataFrame'>
+DatetimeIndex: 2481 entries, 2015-01-02 00:00:00-05:00 to 2024-11-08 00:00:00-05:00
+Data columns (total 5 columns):
+ #   Column  Non-Null Count  Dtype  
+---  ------  --------------  -----  
+ 0   Open    2481 non-null   float64
+ 1   High    2481 non-null   float64
+ 2   Low     2481 non-null   float64
+ 3   Close   2481 non-null   float64
+ 4   Volume  2481 non-null   int64  
+dtypes: float64(4), int64(1)
+memory usage: 116.3 KB
+
+2024-11-10 15:26:46,703 - INFO - Data Columns: Index(['Open', 'High', 'Low', 'Close', 'Volume'], dtype='object')
+2024-11-10 15:26:46,705 - INFO - Data Null Values: Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64
+2024-11-10 15:29:01,863 - INFO - Data Shape: (2481, 5)
+2024-11-10 15:29:01,864 - INFO - Data Head:
+2024-11-10 15:29:01,870 - INFO - 
+                                Open       High        Low      Close  \
+Date                                                                    
+2015-01-02 00:00:00-05:00  14.858000  14.883333  14.217333  14.620667   
+2015-01-05 00:00:00-05:00  14.303333  14.433333  13.810667  14.006000   
+2015-01-06 00:00:00-05:00  14.004000  14.280000  13.614000  14.085333   
+2015-01-07 00:00:00-05:00  14.223333  14.318667  13.985333  14.063333   
+2015-01-08 00:00:00-05:00  14.187333  14.253333  14.000667  14.041333   
+
+                             Volume  
+Date                                 
+2015-01-02 00:00:00-05:00  71466000  
+2015-01-05 00:00:00-05:00  80527500  
+2015-01-06 00:00:00-05:00  93928500  
+2015-01-07 00:00:00-05:00  44526000  
+2015-01-08 00:00:00-05:00  51637500  
+2024-11-10 15:29:01,877 - INFO - Data Description:
+2024-11-10 15:29:01,921 - INFO - 
+              Open         High          Low        Close        Volume
+count  2481.000000  2481.000000  2481.000000  2481.000000  2.481000e+03
+mean    111.902984   114.354807   109.303796   111.890274  1.125585e+08
+std     110.370142   112.824498   107.706078   110.302138  7.444520e+07
+min       9.488000    10.331333     9.403333     9.578000  1.062000e+07
+25%      17.099333    17.386667    16.799999    17.086000  6.682080e+07
+50%      25.093332    25.509333    24.648666    25.166000  9.288270e+07
+75%     217.896667   222.166672   212.529999   217.733337  1.301955e+08
+max     411.470001   414.496674   405.666656   409.970001  9.140820e+08
+2024-11-10 15:29:01,981 - INFO - Data Info:
+2024-11-10 15:29:01,981 - INFO - 
+<class 'pandas.core.frame.DataFrame'>
+DatetimeIndex: 2481 entries, 2015-01-02 00:00:00-05:00 to 2024-11-08 00:00:00-05:00
+Data columns (total 5 columns):
+ #   Column  Non-Null Count  Dtype  
+---  ------  --------------  -----  
+ 0   Open    2481 non-null   float64
+ 1   High    2481 non-null   float64
+ 2   Low     2481 non-null   float64
+ 3   Close   2481 non-null   float64
+ 4   Volume  2481 non-null   int64  
+dtypes: float64(4), int64(1)
+memory usage: 116.3 KB
+
+2024-11-10 15:29:01,981 - INFO - Data Columns: ['Open', 'High', 'Low', 'Close', 'Volume']
+2024-11-10 15:29:01,984 - INFO - Data Null Values:
+2024-11-10 15:29:01,985 - INFO - 
+Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64
+2024-11-10 15:30:34,442 - INFO - Data Shape: (2481, 6)
+2024-11-10 15:30:34,443 - INFO - Data Head:
+2024-11-10 15:30:34,449 - INFO - 
+                                 Open        High         Low       Close  \
+Date                                                                        
+2015-01-02 00:00:00-05:00  173.974549  174.396040  172.119979  173.173706   
+2015-01-05 00:00:00-05:00  172.111629  172.280223  169.734426  170.046326   
+2015-01-06 00:00:00-05:00  170.358216  170.889299  167.635388  168.444656   
+2015-01-07 00:00:00-05:00  169.793417  170.889296  169.338213  170.543671   
+2015-01-08 00:00:00-05:00  171.976726  173.789145  171.959876  173.569962   
+
+                              Volume  Capital Gains  
+Date                                                 
+2015-01-02 00:00:00-05:00  121465900            0.0  
+2015-01-05 00:00:00-05:00  169632600            0.0  
+2015-01-06 00:00:00-05:00  209151400            0.0  
+2015-01-07 00:00:00-05:00  125346700            0.0  
+2015-01-08 00:00:00-05:00  147217800            0.0  
+2024-11-10 15:30:34,455 - INFO - Data Description:
+2024-11-10 15:30:34,492 - INFO - 
+              Open         High          Low        Close        Volume  \
+count  2481.000000  2481.000000  2481.000000  2481.000000  2.481000e+03   
+mean    310.966817   312.664404   309.125098   311.018676  8.799330e+07   
+std     112.004019   112.584632   111.368795   112.024013  4.490370e+07   
+min     156.881168   158.395440   155.197511   157.328568  2.027000e+07   
+25%     215.170072   215.637885   214.037356   214.852249  5.952860e+07   
+50%     275.804969   277.168137   274.385975   276.051056  7.685750e+07   
+75%     403.083512   404.548586   400.283830   402.683685  1.025859e+08   
+max     596.169983   599.640015   596.169983   598.190002  5.072443e+08   
+
+       Capital Gains  
+count         2481.0  
+mean             0.0  
+std              0.0  
+min              0.0  
+25%              0.0  
+50%              0.0  
+75%              0.0  
+max              0.0  
+2024-11-10 15:30:34,527 - INFO - Data Info:
+2024-11-10 15:30:34,527 - INFO - 
+<class 'pandas.core.frame.DataFrame'>
+DatetimeIndex: 2481 entries, 2015-01-02 00:00:00-05:00 to 2024-11-08 00:00:00-05:00
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   Open           2481 non-null   float64
+ 1   High           2481 non-null   float64
+ 2   Low            2481 non-null   float64
+ 3   Close          2481 non-null   float64
+ 4   Volume         2481 non-null   int64  
+ 5   Capital Gains  2481 non-null   float64
+dtypes: float64(5), int64(1)
+memory usage: 135.7 KB
+
+2024-11-10 15:30:34,527 - INFO - Data Columns: ['Open', 'High', 'Low', 'Close', 'Volume', 'Capital Gains']
+2024-11-10 15:30:34,528 - INFO - Data Null Values:
+2024-11-10 15:30:34,529 - INFO - 
+Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Capital Gains    0
+dtype: int64
+2024-11-10 15:31:23,646 - INFO - Data Shape: (2481, 6)
+2024-11-10 15:31:23,647 - INFO - Data Head:
+2024-11-10 15:31:23,653 - INFO - 
+                                Open       High        Low      Close  \
+Date                                                                    
+2015-01-02 00:00:00-05:00  63.190110  63.389425  63.182442  63.358761   
+2015-01-05 00:00:00-05:00  63.427777  63.565763  63.397112  63.542767   
+2015-01-06 00:00:00-05:00  63.650076  63.918382  63.650076  63.726734   
+2015-01-07 00:00:00-05:00  63.734385  63.841707  63.665394  63.765049   
+2015-01-08 00:00:00-05:00  63.711426  63.711426  63.604103  63.665432   
+
+                            Volume  Capital Gains  
+Date                                               
+2015-01-02 00:00:00-05:00  2218800            0.0  
+2015-01-05 00:00:00-05:00  5820100            0.0  
+2015-01-06 00:00:00-05:00  3887600            0.0  
+2015-01-07 00:00:00-05:00  2433400            0.0  
+2015-01-08 00:00:00-05:00  1873400            0.0  
+2024-11-10 15:31:23,663 - INFO - Data Description:
+2024-11-10 15:31:23,713 - INFO - 
+              Open         High          Low        Close        Volume  \
+count  2481.000000  2481.000000  2481.000000  2481.000000  2.481000e+03   
+mean     70.099923    70.199042    69.992362    70.096920  4.174983e+06   
+std       4.885777     4.893096     4.875017     4.885156  2.776826e+06   
+min      62.668560    62.715059    62.598862    62.637581  0.000000e+00   
+25%      66.318917    66.409852    66.253976    66.328003  2.030200e+06   
+50%      68.949652    69.079292    68.801669    68.914581  3.722400e+06   
+75%      73.759092    73.858755    73.653445    73.801582  5.537500e+06   
+max      79.875371    79.911044    79.777240    79.812920  3.193720e+07   
+
+       Capital Gains  
+count         2481.0  
+mean             0.0  
+std              0.0  
+min              0.0  
+25%              0.0  
+50%              0.0  
+75%              0.0  
+max              0.0  
+2024-11-10 15:31:23,805 - INFO - Data Info:
+2024-11-10 15:31:23,805 - INFO - 
+<class 'pandas.core.frame.DataFrame'>
+DatetimeIndex: 2481 entries, 2015-01-02 00:00:00-05:00 to 2024-11-08 00:00:00-05:00
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   Open           2481 non-null   float64
+ 1   High           2481 non-null   float64
+ 2   Low            2481 non-null   float64
+ 3   Close          2481 non-null   float64
+ 4   Volume         2481 non-null   int64  
+ 5   Capital Gains  2481 non-null   float64
+dtypes: float64(5), int64(1)
+memory usage: 135.7 KB
+
+2024-11-10 15:31:23,805 - INFO - Data Columns: ['Open', 'High', 'Low', 'Close', 'Volume', 'Capital Gains']
+2024-11-10 15:31:23,808 - INFO - Data Null Values:
+2024-11-10 15:31:23,808 - INFO - 
+Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Capital Gains    0
+dtype: int64
+2024-11-10 15:37:57,988 - INFO - Data Shape: (2481, 5)
+2024-11-10 15:37:57,990 - INFO - Data Head:
+2024-11-10 15:37:57,998 - INFO - 
+                                Open       High        Low      Close  \
+Date                                                                    
+2015-01-02 00:00:00-05:00  14.858000  14.883333  14.217333  14.620667   
+2015-01-05 00:00:00-05:00  14.303333  14.433333  13.810667  14.006000   
+2015-01-06 00:00:00-05:00  14.004000  14.280000  13.614000  14.085333   
+2015-01-07 00:00:00-05:00  14.223333  14.318667  13.985333  14.063333   
+2015-01-08 00:00:00-05:00  14.187333  14.253333  14.000667  14.041333   
+
+                             Volume  
+Date                                 
+2015-01-02 00:00:00-05:00  71466000  
+2015-01-05 00:00:00-05:00  80527500  
+2015-01-06 00:00:00-05:00  93928500  
+2015-01-07 00:00:00-05:00  44526000  
+2015-01-08 00:00:00-05:00  51637500  
+2024-11-10 15:37:58,004 - INFO - Data Description:
+2024-11-10 15:37:58,032 - INFO - 
+              Open         High          Low        Close        Volume
+count  2481.000000  2481.000000  2481.000000  2481.000000  2.481000e+03
+mean    111.902984   114.354807   109.303796   111.890274  1.125585e+08
+std     110.370142   112.824498   107.706078   110.302138  7.444520e+07
+min       9.488000    10.331333     9.403333     9.578000  1.062000e+07
+25%      17.099333    17.386667    16.799999    17.086000  6.682080e+07
+50%      25.093332    25.509333    24.648666    25.166000  9.288270e+07
+75%     217.896667   222.166672   212.529999   217.733337  1.301955e+08
+max     411.470001   414.496674   405.666656   409.970001  9.140820e+08
+2024-11-10 15:37:58,080 - INFO - Data Info:
+2024-11-10 15:37:58,080 - INFO - 
+<class 'pandas.core.frame.DataFrame'>
+DatetimeIndex: 2481 entries, 2015-01-02 00:00:00-05:00 to 2024-11-08 00:00:00-05:00
+Data columns (total 5 columns):
+ #   Column  Non-Null Count  Dtype  
+---  ------  --------------  -----  
+ 0   Open    2481 non-null   float64
+ 1   High    2481 non-null   float64
+ 2   Low     2481 non-null   float64
+ 3   Close   2481 non-null   float64
+ 4   Volume  2481 non-null   int64  
+dtypes: float64(4), int64(1)
+memory usage: 116.3 KB
+
+2024-11-10 15:37:58,080 - INFO - Data Columns: ['Open', 'High', 'Low', 'Close', 'Volume']
+2024-11-10 15:37:58,081 - INFO - Data Null Values:
+2024-11-10 15:37:58,082 - INFO - 
+Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64
+2024-11-10 15:38:01,043 - INFO - Data Shape: (2481, 6)
+2024-11-10 15:38:01,044 - INFO - Data Head:
+2024-11-10 15:38:01,048 - INFO - 
+                                 Open        High         Low       Close  \
+Date                                                                        
+2015-01-02 00:00:00-05:00  173.974610  174.396101  172.120040  173.173767   
+2015-01-05 00:00:00-05:00  172.111629  172.280223  169.734426  170.046326   
+2015-01-06 00:00:00-05:00  170.358185  170.889268  167.635358  168.444626   
+2015-01-07 00:00:00-05:00  169.793417  170.889296  169.338213  170.543671   
+2015-01-08 00:00:00-05:00  171.976681  173.789099  171.959831  173.569916   
+
+                              Volume  Capital Gains  
+Date                                                 
+2015-01-02 00:00:00-05:00  121465900            0.0  
+2015-01-05 00:00:00-05:00  169632600            0.0  
+2015-01-06 00:00:00-05:00  209151400            0.0  
+2015-01-07 00:00:00-05:00  125346700            0.0  
+2015-01-08 00:00:00-05:00  147217800            0.0  
+2024-11-10 15:38:01,052 - INFO - Data Description:
+2024-11-10 15:38:01,091 - INFO - 
+              Open         High          Low        Close        Volume  \
+count  2481.000000  2481.000000  2481.000000  2481.000000  2.481000e+03   
+mean    310.966816   312.664403   309.125097   311.018675  8.799330e+07   
+std     112.004018   112.584632   111.368794   112.024012  4.490370e+07   
+min     156.881152   158.395425   155.197511   157.328552  2.027000e+07   
+25%     215.170057   215.637840   214.037371   214.852249  5.952860e+07   
+50%     275.804939   277.168137   274.385945   276.051117  7.685750e+07   
+75%     403.083482   404.548586   400.283800   402.683716  1.025859e+08   
+max     596.169983   599.640015   596.169983   598.190002  5.072443e+08   
+
+       Capital Gains  
+count         2481.0  
+mean             0.0  
+std              0.0  
+min              0.0  
+25%              0.0  
+50%              0.0  
+75%              0.0  
+max              0.0  
+2024-11-10 15:38:01,130 - INFO - Data Info:
+2024-11-10 15:38:01,131 - INFO - 
+<class 'pandas.core.frame.DataFrame'>
+DatetimeIndex: 2481 entries, 2015-01-02 00:00:00-05:00 to 2024-11-08 00:00:00-05:00
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   Open           2481 non-null   float64
+ 1   High           2481 non-null   float64
+ 2   Low            2481 non-null   float64
+ 3   Close          2481 non-null   float64
+ 4   Volume         2481 non-null   int64  
+ 5   Capital Gains  2481 non-null   float64
+dtypes: float64(5), int64(1)
+memory usage: 135.7 KB
+
+2024-11-10 15:38:01,131 - INFO - Data Columns: ['Open', 'High', 'Low', 'Close', 'Volume', 'Capital Gains']
+2024-11-10 15:38:01,132 - INFO - Data Null Values:
+2024-11-10 15:38:01,132 - INFO - 
+Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Capital Gains    0
+dtype: int64
+2024-11-10 15:38:03,886 - INFO - Data Shape: (2481, 6)
+2024-11-10 15:38:03,887 - INFO - Data Head:
+2024-11-10 15:38:03,893 - INFO - 
+                                Open       High        Low      Close  \
+Date                                                                    
+2015-01-02 00:00:00-05:00  63.190117  63.389433  63.182450  63.358768   
+2015-01-05 00:00:00-05:00  63.427720  63.565706  63.397055  63.542709   
+2015-01-06 00:00:00-05:00  63.650053  63.918359  63.650053  63.726711   
+2015-01-07 00:00:00-05:00  63.734392  63.841715  63.665402  63.765057   
+2015-01-08 00:00:00-05:00  63.711410  63.711410  63.604088  63.665417   
+
+                            Volume  Capital Gains  
+Date                                               
+2015-01-02 00:00:00-05:00  2218800            0.0  
+2015-01-05 00:00:00-05:00  5820100            0.0  
+2015-01-06 00:00:00-05:00  3887600            0.0  
+2015-01-07 00:00:00-05:00  2433400            0.0  
+2015-01-08 00:00:00-05:00  1873400            0.0  
+2024-11-10 15:38:03,897 - INFO - Data Description:
+2024-11-10 15:38:03,928 - INFO - 
+              Open         High          Low        Close        Volume  \
+count  2481.000000  2481.000000  2481.000000  2481.000000  2.481000e+03   
+mean     70.099923    70.199043    69.992362    70.096921  4.174983e+06   
+std       4.885778     4.893097     4.875017     4.885157  2.776826e+06   
+min      62.668563    62.715029    62.598866    62.637585  0.000000e+00   
+25%      66.318917    66.409860    66.253971    66.327988  2.030200e+06   
+50%      68.949652    69.079269    68.801738    68.914574  3.722400e+06   
+75%      73.759085    73.858755    73.653453    73.801552  5.537500e+06   
+max      79.875356    79.911028    79.777256    79.812935  3.193720e+07   
+
+       Capital Gains  
+count         2481.0  
+mean             0.0  
+std              0.0  
+min              0.0  
+25%              0.0  
+50%              0.0  
+75%              0.0  
+max              0.0  
+2024-11-10 15:38:03,963 - INFO - Data Info:
+2024-11-10 15:38:03,964 - INFO - 
+<class 'pandas.core.frame.DataFrame'>
+DatetimeIndex: 2481 entries, 2015-01-02 00:00:00-05:00 to 2024-11-08 00:00:00-05:00
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   Open           2481 non-null   float64
+ 1   High           2481 non-null   float64
+ 2   Low            2481 non-null   float64
+ 3   Close          2481 non-null   float64
+ 4   Volume         2481 non-null   int64  
+ 5   Capital Gains  2481 non-null   float64
+dtypes: float64(5), int64(1)
+memory usage: 135.7 KB
+
+2024-11-10 15:38:03,964 - INFO - Data Columns: ['Open', 'High', 'Low', 'Close', 'Volume', 'Capital Gains']
+2024-11-10 15:38:03,965 - INFO - Data Null Values:
+2024-11-10 15:38:03,965 - INFO - 
+Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Capital Gains    0
+dtype: int64
+2024-11-10 15:39:02,313 - INFO - Data Shape: (2481, 5)
+2024-11-10 15:39:02,314 - INFO - Data Head:
+2024-11-10 15:39:02,323 - INFO - 
+                                Open       High        Low      Close  \
+Date                                                                    
+2015-01-02 00:00:00-05:00  14.858000  14.883333  14.217333  14.620667   
+2015-01-05 00:00:00-05:00  14.303333  14.433333  13.810667  14.006000   
+2015-01-06 00:00:00-05:00  14.004000  14.280000  13.614000  14.085333   
+2015-01-07 00:00:00-05:00  14.223333  14.318667  13.985333  14.063333   
+2015-01-08 00:00:00-05:00  14.187333  14.253333  14.000667  14.041333   
+
+                             Volume  
+Date                                 
+2015-01-02 00:00:00-05:00  71466000  
+2015-01-05 00:00:00-05:00  80527500  
+2015-01-06 00:00:00-05:00  93928500  
+2015-01-07 00:00:00-05:00  44526000  
+2015-01-08 00:00:00-05:00  51637500  
+2024-11-10 15:39:02,330 - INFO - Data Description:
+2024-11-10 15:39:02,360 - INFO - 
+              Open         High          Low        Close        Volume
+count  2481.000000  2481.000000  2481.000000  2481.000000  2.481000e+03
+mean    111.902984   114.354807   109.303796   111.890274  1.125585e+08
+std     110.370142   112.824498   107.706078   110.302138  7.444520e+07
+min       9.488000    10.331333     9.403333     9.578000  1.062000e+07
+25%      17.099333    17.386667    16.799999    17.086000  6.682080e+07
+50%      25.093332    25.509333    24.648666    25.166000  9.288270e+07
+75%     217.896667   222.166672   212.529999   217.733337  1.301955e+08
+max     411.470001   414.496674   405.666656   409.970001  9.140820e+08
+2024-11-10 15:39:02,418 - INFO - Data Info:
+2024-11-10 15:39:02,418 - INFO - 
+<class 'pandas.core.frame.DataFrame'>
+DatetimeIndex: 2481 entries, 2015-01-02 00:00:00-05:00 to 2024-11-08 00:00:00-05:00
+Data columns (total 5 columns):
+ #   Column  Non-Null Count  Dtype  
+---  ------  --------------  -----  
+ 0   Open    2481 non-null   float64
+ 1   High    2481 non-null   float64
+ 2   Low     2481 non-null   float64
+ 3   Close   2481 non-null   float64
+ 4   Volume  2481 non-null   int64  
+dtypes: float64(4), int64(1)
+memory usage: 116.3 KB
+
+2024-11-10 15:39:02,419 - INFO - Data Columns: ['Open', 'High', 'Low', 'Close', 'Volume']
+2024-11-10 15:39:02,420 - INFO - Data Null Values:
+2024-11-10 15:39:02,421 - INFO - 
+Open      0
+High      0
+Low       0
+Close     0
+Volume    0
+dtype: int64
+2024-11-10 15:39:02,454 - INFO - Data Shape: (2481, 6)
+2024-11-10 15:39:02,455 - INFO - Data Head:
+2024-11-10 15:39:02,470 - INFO - 
+                                 Open        High         Low       Close  \
+Date                                                                        
+2015-01-02 00:00:00-05:00  173.974595  174.396086  172.120025  173.173752   
+2015-01-05 00:00:00-05:00  172.111629  172.280223  169.734426  170.046326   
+2015-01-06 00:00:00-05:00  170.358247  170.889330  167.635418  168.444687   
+2015-01-07 00:00:00-05:00  169.793402  170.889281  169.338198  170.543655   
+2015-01-08 00:00:00-05:00  171.976802  173.789221  171.959952  173.570038   
+
+                              Volume  Capital Gains  
+Date                                                 
+2015-01-02 00:00:00-05:00  121465900            0.0  
+2015-01-05 00:00:00-05:00  169632600            0.0  
+2015-01-06 00:00:00-05:00  209151400            0.0  
+2015-01-07 00:00:00-05:00  125346700            0.0  
+2015-01-08 00:00:00-05:00  147217800            0.0  
+2024-11-10 15:39:02,481 - INFO - Data Description:
+2024-11-10 15:39:02,580 - INFO - 
+              Open         High          Low        Close        Volume  \
+count  2481.000000  2481.000000  2481.000000  2481.000000  2.481000e+03   
+mean    310.966816   312.664403   309.125097   311.018675  8.799330e+07   
+std     112.004018   112.584631   111.368794   112.024012  4.490370e+07   
+min     156.881213   158.395486   155.197526   157.328613  2.027000e+07   
+25%     215.169996   215.637870   214.037402   214.852280  5.952860e+07   
+50%     275.804969   277.168044   274.385945   276.051117  7.685750e+07   
+75%     403.083512   404.548586   400.283861   402.683655  1.025859e+08   
+max     596.169983   599.640015   596.169983   598.190002  5.072443e+08   
+
+       Capital Gains  
+count         2481.0  
+mean             0.0  
+std              0.0  
+min              0.0  
+25%              0.0  
+50%              0.0  
+75%              0.0  
+max              0.0  
+2024-11-10 15:39:02,707 - INFO - Data Info:
+2024-11-10 15:39:02,708 - INFO - 
+<class 'pandas.core.frame.DataFrame'>
+DatetimeIndex: 2481 entries, 2015-01-02 00:00:00-05:00 to 2024-11-08 00:00:00-05:00
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   Open           2481 non-null   float64
+ 1   High           2481 non-null   float64
+ 2   Low            2481 non-null   float64
+ 3   Close          2481 non-null   float64
+ 4   Volume         2481 non-null   int64  
+ 5   Capital Gains  2481 non-null   float64
+dtypes: float64(5), int64(1)
+memory usage: 135.7 KB
+
+2024-11-10 15:39:02,708 - INFO - Data Columns: ['Open', 'High', 'Low', 'Close', 'Volume', 'Capital Gains']
+2024-11-10 15:39:02,711 - INFO - Data Null Values:
+2024-11-10 15:39:02,712 - INFO - 
+Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Capital Gains    0
+dtype: int64
+2024-11-10 15:39:02,765 - INFO - Data Shape: (2481, 6)
+2024-11-10 15:39:02,766 - INFO - Data Head:
+2024-11-10 15:39:02,774 - INFO - 
+                                Open       High        Low      Close  \
+Date                                                                    
+2015-01-02 00:00:00-05:00  63.190106  63.389421  63.182438  63.358757   
+2015-01-05 00:00:00-05:00  63.427758  63.565744  63.397093  63.542747   
+2015-01-06 00:00:00-05:00  63.650076  63.918382  63.650076  63.726734   
+2015-01-07 00:00:00-05:00  63.734369  63.841692  63.665379  63.765034   
+2015-01-08 00:00:00-05:00  63.711376  63.711376  63.604054  63.665382   
+
+                            Volume  Capital Gains  
+Date                                               
+2015-01-02 00:00:00-05:00  2218800            0.0  
+2015-01-05 00:00:00-05:00  5820100            0.0  
+2015-01-06 00:00:00-05:00  3887600            0.0  
+2015-01-07 00:00:00-05:00  2433400            0.0  
+2015-01-08 00:00:00-05:00  1873400            0.0  
+2024-11-10 15:39:02,781 - INFO - Data Description:
+2024-11-10 15:39:02,818 - INFO - 
+              Open         High          Low        Close        Volume  \
+count  2481.000000  2481.000000  2481.000000  2481.000000  2.481000e+03   
+mean     70.099923    70.199042    69.992362    70.096920  4.174983e+06   
+std       4.885777     4.893096     4.875017     4.885157  2.776826e+06   
+min      62.668556    62.715010    62.598858    62.637577  0.000000e+00   
+25%      66.318925    66.409829    66.253986    66.327965  2.030200e+06   
+50%      68.949652    69.079269    68.801715    68.914566  3.722400e+06   
+75%      73.759108    73.858755    73.653422    73.801575  5.537500e+06   
+max      79.875386    79.911059    79.777263    79.812943  3.193720e+07   
+
+       Capital Gains  
+count         2481.0  
+mean             0.0  
+std              0.0  
+min              0.0  
+25%              0.0  
+50%              0.0  
+75%              0.0  
+max              0.0  
+2024-11-10 15:39:02,851 - INFO - Data Info:
+2024-11-10 15:39:02,851 - INFO - 
+<class 'pandas.core.frame.DataFrame'>
+DatetimeIndex: 2481 entries, 2015-01-02 00:00:00-05:00 to 2024-11-08 00:00:00-05:00
+Data columns (total 6 columns):
+ #   Column         Non-Null Count  Dtype  
+---  ------         --------------  -----  
+ 0   Open           2481 non-null   float64
+ 1   High           2481 non-null   float64
+ 2   Low            2481 non-null   float64
+ 3   Close          2481 non-null   float64
+ 4   Volume         2481 non-null   int64  
+ 5   Capital Gains  2481 non-null   float64
+dtypes: float64(5), int64(1)
+memory usage: 135.7 KB
+
+2024-11-10 15:39:02,852 - INFO - Data Columns: ['Open', 'High', 'Low', 'Close', 'Volume', 'Capital Gains']
+2024-11-10 15:39:02,853 - INFO - Data Null Values:
+2024-11-10 15:39:02,854 - INFO - 
+Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Capital Gains    0
+dtype: int64
+2024-11-10 15:39:02,894 - INFO - Your selected dataframe has 5 columns.
+2024-11-10 15:39:02,895 - INFO - There are 0 columns that have missing values.
+2024-11-10 15:39:08,482 - INFO - Your selected dataframe has 5 columns.
+2024-11-10 15:39:08,483 - INFO - There are 0 columns that have missing values.
+2024-11-10 15:39:28,580 - INFO - Your selected dataframe has 6 columns.
+2024-11-10 15:39:28,580 - INFO - There are 0 columns that have missing values.
+2024-11-10 15:39:49,801 - INFO - Your selected dataframe has 6 columns.
+2024-11-10 15:39:49,802 - INFO - There are 0 columns that have missing values.
