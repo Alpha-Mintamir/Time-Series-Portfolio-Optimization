@@ -103,9 +103,6 @@ Conducts time series analysis, focusing on:
 - Decomposing time series data to observe trend and seasonality.
 - Analyzing rolling standard deviation for volatility insights.
 
-## Notebooks
-
-`quantitative_analysis.ipynb`: Contains the end-to-end analysis, combining data loading, preprocessing, EDA, and time series decomposition with visualizations.
 
 ## Logs
 
